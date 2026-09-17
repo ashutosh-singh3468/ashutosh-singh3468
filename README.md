@@ -12,17 +12,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFB3&center=false&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+Django+%2B+React;AI%2FML+%26+NLP+Enthusiast;300%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </p>
 
-- 🌱 I'm currently learning **GenAI, LLMs, NLP, RAG & Vector Databases.**
-
-- 💻 I'm interested in **Full Stack Development, Machine Learning & Natural Language Processing.**
-
-- 🎓 I'm pursuing **B.Tech in Computer Science at Graphic Era Hill University.**
-
-- 💼 Currently a **Full Stack Development Intern @ CDAC, Pune**, building a Django-based Translation Evaluation Platform.
-
-- 🏆 I have solved **300+ problems on LeetCode** (rating 1380, top 10.64% globally).
-
-- 📫 How to reach me **[ashutosh.singh3468@gmail.com](mailto:ashutosh.singh3468@gmail.com)**
+<table>
+  <tr>
+    <td>🌱</td>
+    <td>Currently learning <b>GenAI, LLMs, NLP, RAG &amp; Vector Databases</b></td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td>Focused on <b>Full Stack Development, Machine Learning &amp; NLP</b></td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><b>B.Tech in Computer Science</b> — Graphic Era Hill University</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td>Full Stack Development Intern @ <b>CDAC, Pune</b> — building a Django-based Translation Evaluation Platform</td>
+  </tr>
+  <tr>
+    <td>🏆</td>
+    <td><b>300+ problems solved on LeetCode</b> · rating 1380 · top 10.64% globally</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td>Reach me at <a href="mailto:ashutosh.singh3468@gmail.com"><b>ashutosh.singh3468@gmail.com</b></a></td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
