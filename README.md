@@ -100,50 +100,6 @@
 
 </p>
 
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h4>🌐 Translation Evaluation Platform</h4>
-      <p><b>Python · Django · NLP</b></p>
-      <ul>
-        <li>BLEU, Subword BLEU, METEOR, TER & HTER scoring</li>
-        <li>Multi-format report generation (Excel, CSV, DOCX, PDF)</li>
-        <li>Human post-editing analysis pipeline</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🛒 SQ – Smart Retail Self-Checkout</h4>
-      <p><b>Django · PostgreSQL · React.js</b></p>
-      <ul>
-        <li>QR-based queue-free checkout system</li>
-        <li>Secure REST APIs for cart & billing workflows</li>
-        <li>Real-time cart sync + automated billing</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>💻 WEB-IDE</h4>
-      <p><b>Next.js · Electron.js · Web Workers · Monaco</b></p>
-      <ul>
-        <li>Serverless in-browser IDE, 40% lower latency</li>
-        <li>Isolated Web Worker runtimes for Python/C/C++</li>
-        <li>Sandboxed, zero-setup execution architecture</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🎨 LUMA.js</h4>
-      <p><b>JavaScript · WebGL · Rollup · Virtual DOM</b></p>
-      <ul>
-        <li>Modular WebGL rendering framework</li>
-        <li>Custom Virtual DOM + reactivity engine</li>
-        <li>Optimized Rollup bundling & animation pipeline</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub Stats
 
